@@ -146,8 +146,9 @@ function getCitySize(city, font) {
 }
 
 /**
+ * Generate target certificate as PDF.
  * 
- * @param {*} profile 
+ * @param {*} profile Profile to generate PDF from.
  */
 async function generateCertificatePDF(profile) {
     const document = await loadPDF();
