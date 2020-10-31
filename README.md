@@ -13,7 +13,7 @@ Covid certificate generator based on original French government source code but 
         </td>
         <td>
             <a href="https://www.icloud.com/shortcuts/d52f0aead99542e9a80b439c78e9a652">
-                <img src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/actvity.png">
+                <img src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/activity.png">
             </a>
         </td>
     </tr>
