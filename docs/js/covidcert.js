@@ -200,6 +200,7 @@ async function generateCertificatePDF(profile) {
 async function generateAndDownload(payload) {
     const decoded = decodeURIComponent(escape(atob(payload)));
     const profile = JSON.parse(decoded);
+    profile.birthday = new Date(profile.birthday).toLocaleDateString('fr-FR');
     const now = new Date();
     profile.date = now.toLocaleDateString('fr-FR');
     profile.time = now
