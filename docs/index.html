@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Generateur simplifi&ecute; d'attestation COVID-19</title>
+    </head>
+    <body>
+        <noscript>
+            <p>
+                Vous devez activer le support JavaScript pour utiliser cette
+                application.
+            </p>
+        </noscript>
+        <script src="../js/pdf-lib.min.js"></script>
+        <script src="../js/qrcode.min.js"></script>
+        <script src="../js/covidcert.min.js"></script>
+        <script type="module">
+            const url = new URL(document.location);
+            const params = url.searchParams;
+            const payload = params.get('payload');
+            generateAndDownload(payload);
+        </script>
+    </body>
+</html>
