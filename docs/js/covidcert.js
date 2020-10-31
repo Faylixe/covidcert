@@ -198,13 +198,15 @@ async function generateCertificatePDF(profile) {
  */
 async function generateAndDownload(payload) {
     const decoded = atob(payload);
-    const data = JSON.parse(decoded);
+    const profile = JSON.parse(decoded);
+    console.log('profile decoded:');
+    console.log(profile);
     const now = new Date();
-    data.date = now.toLocaleDateString('fr-FR');
-    data.time = now
+    profile.date = now.toLocaleDateString('fr-FR');
+    profile.time = now
         .toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' })
         .replace(':', 'h');
-    const blob = await generateCertificatePDF(data, reasons, pdfBase);
+    const blob = await generateCertificatePDF(profile);
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
