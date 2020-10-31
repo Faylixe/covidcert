@@ -152,7 +152,7 @@ function getCitySize(city, font) {
 async function generateCertificatePDF(profile) {
     const document = await loadPDF();
     const qrcode = await generateCertificateQRCode(profile);
-    const font = await document.embedFont(StandardFonts.Helvetica);
+    const font = await document.embedFont(PDFLib.StandardFonts.Helvetica);
     const image = await document.embedPng(qrcode);
     const pages = document.getPages();
     const print = (text, position, size = 11) => {
@@ -199,8 +199,6 @@ async function generateCertificatePDF(profile) {
 async function generateAndDownload(payload) {
     const decoded = decodeURIComponent(escape(atob(payload)));
     const profile = JSON.parse(decoded);
-    console.log('profile decoded:');
-    console.log(profile);
     const now = new Date();
     profile.date = now.toLocaleDateString('fr-FR');
     profile.time = now
