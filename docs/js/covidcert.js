@@ -94,7 +94,7 @@ const QRCODE_OPTIONS = {
 async function loadPDF() {
     const base = await fetch(PDF_BASE_URL).then((
         response) => response.arrayBuffer());
-    const document = await PDFDocument.load(base);
+    const document = await PDFLib.PDFDocument.load(base);
     document.setTitle(PDF_TITLE);
     document.setSubject(PDF_SUBJECT);
     document.setKeywords(PDF_KEYWORDS);
@@ -197,7 +197,7 @@ async function generateCertificatePDF(profile) {
  * @param {*} payload Received URL payload as Base64 encoded JSON string.
  */
 async function generateAndDownload(payload) {
-    const decoded = atob(payload);
+    const decoded = decodeURIComponent(escape(atob(payload)));
     const profile = JSON.parse(decoded);
     console.log('profile decoded:');
     console.log(profile);
