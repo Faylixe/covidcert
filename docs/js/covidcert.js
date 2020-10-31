@@ -39,7 +39,7 @@ const REASONS = [
     'convocation',
     'missions',
     'enfants'
-]
+];
 const REASON_POSITIONS = [
     Position(78, 578),
     Position(78, 533),
@@ -65,12 +65,12 @@ const QRCODE_SIZES = [
     Size(300, 300)
 ];
 
-const PDF_BASE_URL = '../base.pdf'
+const PDF_BASE_URL = "base.pdf";
 const PDF_TITLE = "COVID-19 - Déclaration de déplacement";
-const PDF_SUBJECT = "Attestation de déplacement dérogatoire"
+const PDF_SUBJECT = "Attestation de déplacement dérogatoire";
 const PDF_PRODUCER = "COVID Certificate generator";
 const PDF_AUTHOR = "Félix Voituret";
-const PDF_CREATOR = ""
+const PDF_CREATOR = "";
 const PDF_KEYWORDS = [
     'covid19',
     'covid-19',
