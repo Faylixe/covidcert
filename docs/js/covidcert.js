@@ -208,7 +208,7 @@ async function generateAndDownload(payload) {
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
-    link.download = `attestation-${creationDate}_${creationHour}.pdf`;
+    link.download = `attestation-${profile.date}_${profile.time}.pdf`;
     document.body.appendChild(link);
     link.click();
 }
