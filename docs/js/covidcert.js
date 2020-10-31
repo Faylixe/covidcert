@@ -200,12 +200,13 @@ async function generateCertificatePDF(profile) {
 async function generateAndDownload(payload) {
     const decoded = decodeURIComponent(escape(atob(payload)));
     const profile = JSON.parse(decoded);
-    profile.birthday = new Date(profile.birthday).toLocaleDateString('fr-FR');
-    const now = new Date();
-    profile.date = now.toLocaleDateString('fr-FR');
-    profile.time = now
-        .toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' })
-        .replace(':', 'h');
+    profile.birthday = moment(profile.birthday).format("DD/MM/YYYY");
+    let now = moment();
+    if (profile.delta) {
+        now = now.subtract(profile.delta, 'minutes');
+    }
+    profile.date = now.format("DD/MM/YYYY");
+    profile.time = now.format("HH:mm")
     const blob = await generateCertificatePDF(profile);
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');

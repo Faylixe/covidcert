@@ -55,12 +55,13 @@ Le messsage JSON attendu doit respecter le format suivant :
 {
     "firstname":    "Prénom du titulaire",
     "lastname":     "Nom du titulaire",
-    "birthday":     "Date de naissance du titulaire",
+    "birthday":     "Date de naissance du titulaire au format ISO8601",
     "placeofbirth": "Lieu de naissance du titulaire",
     "address":      "Adresse du titulaire",
     "city":         "Ville liée à l'adresse du titulaire",
     "zipcode":      "Code postal liée à l'adresse du titulaire",
-    "reason":       0
+    "reason":       0,
+    "delta":        10
 }
 ```
 
@@ -80,3 +81,6 @@ En voici la liste:
 | `6`  | Convocation judiciaire ou administrative                   |
 | `7`  | Mission d'intérêt général                                  |
 | `8`  | Déplacement relatif aux enfants                            |
+
+Le champ `delta` permet d'antidater la date de création et l'heure de sortie de
+l'attestation en nombre de minute.
