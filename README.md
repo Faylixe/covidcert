@@ -209,7 +209,7 @@ Le messsage JSON attendu doit respecter le format suivant :
 ```
 
 > :warning: Le champ `delta` est optionel, il correspond au nombre de minute de différé à
-utiliser pour l'heure de sortie généré.
+utiliser pour l'heure de sortie générée.
 
 Le champ `reason` est un entier qui reprend la codification originale de
 l'application officielle disponible
