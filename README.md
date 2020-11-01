@@ -1,7 +1,7 @@
 # Générateur alternatif d'attestation dérogatoire COVID-19
 
 Ce repository fourni une version alternative du générateur d'attestation
-dérogatoire de déplacement COVID-19. Il est consituté d'une simple page HTML
+dérogatoire de déplacement COVID-19. Il est consitué d'une simple page HTML
 qui génère l'attestation au format PDF via du _modern Javascript_, les données
 d'entrées étant transmises via un objet _JSON_ encodé en _base64_. Cela permet
 d'automatiser la génération d'attestation sans avoir à remplir le formulaire
