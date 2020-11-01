@@ -17,7 +17,7 @@ basé sur ce générateur sont disponibles via les liens iCloud suivants<sup>1</
 <table>
     <tr>
         <td>
-            <a href="https://www.icloud.com/shortcuts/0d909e7f9d27405690f4aac4e0961c4d">
+            <a href="https://www.icloud.com/shortcuts/f121c12e8657460390e31821d79845a3">
                 <figure class="image">
                     <img src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/shopping.png"><br>
                     <figcaption>Courses</figcaption>
@@ -25,7 +25,7 @@ basé sur ce générateur sont disponibles via les liens iCloud suivants<sup>1</
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/c3a6909bc0ab4691b5a3d70c96451669">
+            <a href="https://www.icloud.com/shortcuts/3d77b2f1184a430da52eb44768ef0659">
                 <figure class="image">
                     <img src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/activity.png"><br>
                     <figcaption>Activité</figcaption>
