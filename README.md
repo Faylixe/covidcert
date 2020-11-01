@@ -93,7 +93,7 @@ l'option `Réglages > Raccourcis > Autoriser les raccourcis non fiables`
     </tr>
 </table>
 
-Lors de l'import vos informations personnelles vous seront demandés afin de pouvoir
+Lors de l'import vos informations personnelles vous seront demandées afin de pouvoir
 générer les attestations automatiquement. Ces données sont stockées sur votre téléphone
 et ne peut être utilisé par des tiers.
 
@@ -102,9 +102,9 @@ génération instantanée au besoin.
 
 ## Developpement
 
-L'application web est herbergé sur [Github Pages](https://pages.github.com)
+L'application web est hérbergée sur [Github Pages](https://pages.github.com)
 et reprend le code source de l'application officielle pour la génération du
-PDF. En revanche elle ne dispose pas de formulaire de saisie manuelle pour
+PDF. En revanche, elle ne dispose pas de formulaire de saisie manuelle pour
 remplir les champs nécessaires, mais utilise à la place un message JSON
 encodé en _base64_. Ce message JSON est attendu dans le paramètre URL `payload`.
 Le messsage JSON attendu doit respecter le format suivant :
@@ -122,10 +122,10 @@ Le messsage JSON attendu doit respecter le format suivant :
 }
 ```
 
-Le champ `reason` est un entier qui reprend la codification original de
+Le champ `reason` est un entier qui reprend la codification originale de
 l'application officielle disponible
 [ici](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020).
-En voici la liste:
+En voici la liste :
 
 | Code | Raison invoqué |
 | ---- | -------------- |
