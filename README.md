@@ -127,8 +127,8 @@ l'application officielle disponible
 [ici](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020).
 En voici la liste :
 
-| Code | Raison invoqué |
-| ---- | -------------- |
+| Code | Raison invoquée |
+| ---- | --------------- |
 | `0`  | Déplacement professionnel, éducatif ou liée à la formation |
 | `1`  | Achats de première necessité                               |
 | `2`  | Consultations, Examen de santé                             |
