@@ -10,13 +10,6 @@ et de fournir des actions de type
 
 ## Raccourcis iOS
 
-<a href="https://apps.apple.com/fr/app/raccourcis/id915249334">
-    <figure class="image">
-        <img width=200 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/640px-Download_on_the_App_Store_Badge.svg.png"><br>
-        <figcaption>Télécharger l'application Raccourcis</figcaption>
-    </figure>
-</a>
-
 Vous devez au préalable installer l'application
 [Raccourcis](https://apps.apple.com/fr/app/raccourcis/id915249334) sur votre
 device iOS. Vous pouvez ensuite installer les raccourcis disponible via les
