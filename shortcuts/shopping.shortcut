@@ -16,11 +16,11 @@
 				<key>WFMenuItems</key>
 				<array>
 					<string>Aucun</string>
-					<string>10 minutes</string>
-					<string>20 minutes</string>
-					<string>30 minutes</string>
-					<string>40 minutes</string>
-					<string>50 minutes</string>
+					<string>-10 minutes</string>
+					<string>-20 minutes</string>
+					<string>-30 minutes</string>
+					<string>-40 minutes</string>
+					<string>-50 minutes</string>
 				</array>
 				<key>WFMenuPrompt</key>
 				<string>Différé de l'heure de sortie</string>
@@ -92,7 +92,7 @@
 				<key>WFControlFlowMode</key>
 				<integer>1</integer>
 				<key>WFMenuItemTitle</key>
-				<string>10 minutes</string>
+				<string>-10 minutes</string>
 			</dict>
 		</dict>
 		<dict>
@@ -148,7 +148,7 @@
 				<key>WFControlFlowMode</key>
 				<integer>1</integer>
 				<key>WFMenuItemTitle</key>
-				<string>20 minutes</string>
+				<string>-20 minutes</string>
 			</dict>
 		</dict>
 		<dict>
@@ -204,7 +204,7 @@
 				<key>WFControlFlowMode</key>
 				<integer>1</integer>
 				<key>WFMenuItemTitle</key>
-				<string>30 minutes</string>
+				<string>-30 minutes</string>
 			</dict>
 		</dict>
 		<dict>
@@ -260,7 +260,7 @@
 				<key>WFControlFlowMode</key>
 				<integer>1</integer>
 				<key>WFMenuItemTitle</key>
-				<string>40 minutes</string>
+				<string>-40 minutes</string>
 			</dict>
 		</dict>
 		<dict>
@@ -316,7 +316,7 @@
 				<key>WFControlFlowMode</key>
 				<integer>1</integer>
 				<key>WFMenuItemTitle</key>
-				<string>50 minutes</string>
+				<string>-50 minutes</string>
 			</dict>
 		</dict>
 		<dict>
