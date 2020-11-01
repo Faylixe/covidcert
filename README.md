@@ -236,3 +236,9 @@ En voici la liste :
 | `6`  | Convocation judiciaire ou administrative                  |
 | `7`  | Mission d'intérêt général                                 |
 | `8`  | Déplacement relatif aux enfants                           |
+
+
+### Service worker
+
+Un service worker est installé au démarrage de la page afin de mettre en cache les ressources
+nécessaire pour générer une attestation même en mode _offline_.
