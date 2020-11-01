@@ -34,7 +34,7 @@ génération instantanée au besoin.
 <table>
     <tr>
         <td>
-            <a href="https://www.icloud.com/shortcuts/0ad1cf2c9c63492fabf7015fff5e2a43">
+            <a href="https://www.icloud.com/shortcuts/f4975d211a614cb6abfa63f85bee70cc">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/work.png"><br>
                     <figcaption>Travail</figcaption>
@@ -42,7 +42,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/f121c12e8657460390e31821d79845a3">
+            <a href="https://www.icloud.com/shortcuts/572c8e8ff4b94c279d3c226edf10b6f3">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/shopping.png"><br>
                     <figcaption>Courses</figcaption>
@@ -50,7 +50,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/94a3b4e54f064d409c270fb0bbc69dfe">
+            <a href="https://www.icloud.com/shortcuts/c4cddd0e259c431990247eb60f7d57fb">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/health.png"><br>
                     <figcaption>Santé</figcaption>
@@ -58,7 +58,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/c3abac207887495e83141c3cdad036e4">
+            <a href="https://www.icloud.com/shortcuts/624fd52f188a4fb59be221865c32e2cf">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/family.png"><br>
                     <figcaption>Famille</figcaption>
@@ -66,7 +66,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/6e948bb10cee41ffb5c3457ca1020828">
+            <a href="https://www.icloud.com/shortcuts/f9fea98a27a94315a1e22e7f8f849afb">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/disability.png"><br>
                     <figcaption>Handicap</figcaption>
@@ -74,7 +74,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/3d77b2f1184a430da52eb44768ef0659">
+            <a href="https://www.icloud.com/shortcuts/7d38f1b8b6304a00b01f178ca98c1aea">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/activity.png"><br>
                     <figcaption>Activité</figcaption>
@@ -82,7 +82,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/7314d130eb884ec7bc474b9aec1bd27a">
+            <a href="https://www.icloud.com/shortcuts/43d5f7ba21ca4123990456b21be6edea">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/justice.png"><br>
                     <figcaption>Convocation</figcaption>
@@ -90,7 +90,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/dea407dfcdc34fc4acad5cbf16f09ecb">
+            <a href="https://www.icloud.com/shortcuts/1a80f03f393c48d2b7df0ddb92e3d367">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/mission.png"><br>
                     <figcaption>Mission</figcaption>
@@ -98,7 +98,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/b71de4b7db454c77b2a4c5aab7af2d83">
+            <a href="https://www.icloud.com/shortcuts/e954dbf0a9b7421fbe50c39a38b31348">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/children.png"><br>
                     <figcaption>Enfants</figcaption>
