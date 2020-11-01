@@ -21,7 +21,7 @@ l'option `Réglages > Raccourcis > Autoriser les raccourcis non fiables`
         <td>
             <a href="https://www.icloud.com/shortcuts/0ad1cf2c9c63492fabf7015fff5e2a43">
                 <figure class="image">
-                    <img width="64" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/work.png"><br>
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/work.png"><br>
                     <figcaption>Travail</figcaption>
                 </figure>
             </a>
@@ -29,7 +29,7 @@ l'option `Réglages > Raccourcis > Autoriser les raccourcis non fiables`
         <td>
             <a href="https://www.icloud.com/shortcuts/f121c12e8657460390e31821d79845a3">
                 <figure class="image">
-                    <img width="64" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/shopping.png"><br>
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/shopping.png"><br>
                     <figcaption>Courses</figcaption>
                 </figure>
             </a>
@@ -37,7 +37,7 @@ l'option `Réglages > Raccourcis > Autoriser les raccourcis non fiables`
         <td>
             <a href="https://www.icloud.com/shortcuts/94a3b4e54f064d409c270fb0bbc69dfe">
                 <figure class="image">
-                    <img width="64" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/health.png"><br>
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/health.png"><br>
                     <figcaption>Santé</figcaption>
                 </figure>
             </a>
@@ -45,7 +45,7 @@ l'option `Réglages > Raccourcis > Autoriser les raccourcis non fiables`
         <td>
             <a href="https://www.icloud.com/shortcuts/c3abac207887495e83141c3cdad036e4">
                 <figure class="image">
-                    <img width="64" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/family.png"><br>
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/family.png"><br>
                     <figcaption>Famille</figcaption>
                 </figure>
             </a>
@@ -53,7 +53,7 @@ l'option `Réglages > Raccourcis > Autoriser les raccourcis non fiables`
         <td>
             <a href="https://www.icloud.com/shortcuts/6e948bb10cee41ffb5c3457ca1020828">
                 <figure class="image">
-                    <img width="64" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/family.png"><br>
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/family.png"><br>
                     <figcaption>Handicap</figcaption>
                 </figure>
             </a>
@@ -61,7 +61,7 @@ l'option `Réglages > Raccourcis > Autoriser les raccourcis non fiables`
         <td>
             <a href="https://www.icloud.com/shortcuts/3d77b2f1184a430da52eb44768ef0659">
                 <figure class="image">
-                    <img width="64" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/activity.png"><br>
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/activity.png"><br>
                     <figcaption>Activité</figcaption>
                 </figure>
             </a>
@@ -69,23 +69,23 @@ l'option `Réglages > Raccourcis > Autoriser les raccourcis non fiables`
         <td>
             <a href="https://www.icloud.com/shortcuts/7314d130eb884ec7bc474b9aec1bd27a">
                 <figure class="image">
-                    <img width="64" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/justice.png"><br>
-                    <figcaption>Convocation judiciaire</figcaption>
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/justice.png"><br>
+                    <figcaption>Convocation</figcaption>
                 </figure>
             </a>
         </td>
         <td>
             <a href="https://www.icloud.com/shortcuts/dea407dfcdc34fc4acad5cbf16f09ecb">
                 <figure class="image">
-                    <img width="64" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/mission.png"><br>
-                    <figcaption>Mission d'intérêt général</figcaption>
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/mission.png"><br>
+                    <figcaption>Mission</figcaption>
                 </figure>
             </a>
         </td>
         <td>
             <a href="https://www.icloud.com/shortcuts/b71de4b7db454c77b2a4c5aab7af2d83">
                 <figure class="image">
-                    <img width="64" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/children.png"><br>
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/children.png"><br>
                     <figcaption>Enfants</figcaption>
                 </figure>
             </a>
