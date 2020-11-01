@@ -26,12 +26,11 @@
             const params = url.searchParams;
             const payload = params.get('payload');
             generate(payload).then(result => {
-                console.log(result);
                 const link = document.createElement('a');
                 link.href = result.url;
                 link.download = result.filename;
                 document.body.appendChild(link);
-                // link.click();
+                link.click();
             });
         </script>
     </body>
