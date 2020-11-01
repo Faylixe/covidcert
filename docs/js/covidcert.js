@@ -218,14 +218,15 @@ async function generateAndDownload(payload) {
         reader.onloadend = function () { $window.open(reader.result); };
         reader.readAsDataURL(blob);
     }
-    else if (window.navigator.userAgent.match(/iPad/i) || window.navigator.userAgent.match(/iPhone/i)) {
+    else if (window.navigator.userAgent.match(/Chrome/i) && window.navigator.userAgent.match(/Mobile/i)) {
+        window.open(url);
+    }
+    else {
         const link = document.createElement('a');
         link.href = url;
         link.download = filename;
         document.body.appendChild(link);
         link.click();
     }
-    else {
-        window.open(url);
     }
 }
