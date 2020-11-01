@@ -129,12 +129,12 @@ En voici la liste :
 
 | Code | Raison invoquée |
 | ---- | --------------- |
-| `0`  | Déplacement professionnel, éducatif ou liée à la formation |
-| `1`  | Achats de première necessité                               |
-| `2`  | Consultations, Examen de santé                             |
-| `3`  | Motif familial impérieux                                   |
-| `4`  | Handicap                                                   |
-| `5`  | Activité physique                                          |
-| `6`  | Convocation judiciaire ou administrative                   |
-| `7`  | Mission d'intérêt général                                  |
-| `8`  | Déplacement relatif aux enfants                            |
+| `0`  | Déplacement professionnel, éducatif ou lié à la formation |
+| `1`  | Achats de première necessité                              |
+| `2`  | Consultations, Examen de santé                            |
+| `3`  | Motif familial impérieux                                  |
+| `4`  | Handicap                                                  |
+| `5`  | Activité physique                                         |
+| `6`  | Convocation judiciaire ou administrative                  |
+| `7`  | Mission d'intérêt général                                 |
+| `8`  | Déplacement relatif aux enfants                           |
