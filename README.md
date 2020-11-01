@@ -12,7 +12,7 @@ et de fournir des actions de type
 
 <a href="https://apps.apple.com/fr/app/raccourcis/id915249334">
     <figure class="image">
-        <img src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/applestore.png"><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/640px-Download_on_the_App_Store_Badge.svg.png"><br>
         <figcaption>Télécharger l'application Raccourcis</figcaption>
     </figure>
 </a>
@@ -210,9 +210,13 @@ Le messsage JSON attendu doit respecter le format suivant :
     "address":      "Adresse du titulaire",
     "city":         "Ville liée à l'adresse du titulaire",
     "zipcode":      "Code postal liée à l'adresse du titulaire",
-    "reason":       0
+    "reason":       0,
+    "delta":        0
 }
 ```
+
+> :warning: Le champ `delta` est optionel, il correspond au nombre de minute de différé à
+utiliser pour l'heure de sortie généré.
 
 Le champ `reason` est un entier qui reprend la codification originale de
 l'application officielle disponible

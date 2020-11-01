@@ -5,6 +5,7 @@ const VERSION = "1";
 const CACHE_NAME = `covidcert-v${VERSION}`;
 const CACHED_RESOURCES = [
     'js/covidcert.min.js',
+    'js/moment.min.js',
     'js/pdf-lib.min.js',
     'js/pdf-lib.min.js.map',
     'js/qrcode.min.js',
