@@ -6,8 +6,7 @@ qui génère l'attestation au format PDF via du _modern Javascript_, les donnée
 d'entrées étant transmises via un objet _JSON_ encodé en _base64_. Cela permet
 d'automatiser la génération d'attestation sans avoir à remplir le formulaire
 et de fournir des actions de type
-[iOS shortcuts](https://support.apple.com/fr-fr/guide/shortcuts/welcome/ios) ou
-encore [Google action blocks](https://support.google.com/accessibility/android/answer/9711267?hl=en).
+[iOS shortcuts](https://support.apple.com/fr-fr/guide/shortcuts/welcome/ios).
 
 ## Raccourcis iOS
 
