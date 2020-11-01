@@ -197,7 +197,7 @@ async function generateCertificatePDF(profile) {
  * 
  * @param {*} payload Received URL payload as Base64 encoded JSON string.
  */
-async function generateAndDownload(payload) {
+async function generate(payload) {
     const decoded = decodeURIComponent(escape(atob(payload)));
     const profile = JSON.parse(decoded);
     profile.birthday = moment(profile.birthday).format("DD/MM/YYYY");
@@ -209,10 +209,5 @@ async function generateAndDownload(payload) {
     profile.time = now.format("HH:mm")
     const blob = await generateCertificatePDF(profile);
     const url = URL.createObjectURL(blob);
-    const filename = `attestation-${profile.date}_${profile.time}.pdf`;
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = filename;
-    document.body.appendChild(link);
-    link.click();
+    return url;
 }
