@@ -16,6 +16,15 @@ basé sur ce générateur sont disponibles via les liens iCloud suivants<sup>1</
 > :gear: Pour pouvoir importer ces raccourcis vous devez activer au préalable
 l'option `Réglages > Raccourcis > Autoriser les raccourcis non fiables`
 
+Lors de l'import vos informations personnelles vous seront demandées afin de pouvoir
+générer les attestations automatiquement. Ces données sont stockées sur votre téléphone
+et ne peut être utilisé par des tiers.
+
+> <sup>1</sup> un raccourci est proposé par type de déplacement ce qui permet une
+génération instantanée au besoin.
+
+### Lien iCloud
+
 <table>
     <tr>
         <td>
@@ -93,12 +102,87 @@ l'option `Réglages > Raccourcis > Autoriser les raccourcis non fiables`
     </tr>
 </table>
 
-Lors de l'import vos informations personnelles vous seront demandées afin de pouvoir
-générer les attestations automatiquement. Ces données sont stockées sur votre téléphone
-et ne peut être utilisé par des tiers.
 
-> <sup>1</sup> un raccourci est proposé par type de déplacement ce qui permet une
-génération instantanée au besoin.
+### Fichier .shortcut
+
+En cas d'indisponibilité du service iCloud vous pouvez également utiliser directement les fichiers `shortcut`:
+
+<table>
+    <tr>
+        <td>
+            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/work.shortcut">
+                <figure class="image">
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/work.png"><br>
+                    <figcaption>Travail</figcaption>
+                </figure>
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/shopping.shortcut">
+                <figure class="image">
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/shopping.png"><br>
+                    <figcaption>Courses</figcaption>
+                </figure>
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/health.shortcut">
+                <figure class="image">
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/health.png"><br>
+                    <figcaption>Santé</figcaption>
+                </figure>
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/family.shortcut">
+                <figure class="image">
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/family.png"><br>
+                    <figcaption>Famille</figcaption>
+                </figure>
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/disability.shortcut">
+                <figure class="image">
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/disability.png"><br>
+                    <figcaption>Handicap</figcaption>
+                </figure>
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/activity.shortcut">
+                <figure class="image">
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/activity.png"><br>
+                    <figcaption>Activité</figcaption>
+                </figure>
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/justice.shortcut">
+                <figure class="image">
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/justice.png"><br>
+                    <figcaption>Convocation</figcaption>
+                </figure>
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/mission.shortcut">
+                <figure class="image">
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/mission.png"><br>
+                    <figcaption>Mission</figcaption>
+                </figure>
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/children.shortcut">
+                <figure class="image">
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/children.png"><br>
+                    <figcaption>Enfants</figcaption>
+                </figure>
+            </a>
+        </td>
+    </tr>
+</table>
 
 ## Developpement
 
