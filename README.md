@@ -53,7 +53,7 @@ l'option `Réglages > Raccourcis > Autoriser les raccourcis non fiables`
         <td>
             <a href="https://www.icloud.com/shortcuts/6e948bb10cee41ffb5c3457ca1020828">
                 <figure class="image">
-                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/family.png"><br>
+                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/docs/images/disability.png"><br>
                     <figcaption>Handicap</figcaption>
                 </figure>
             </a>
