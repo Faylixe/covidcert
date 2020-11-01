@@ -14,6 +14,9 @@ encore [Google action blocks](https://support.google.com/accessibility/android/a
 Des [raccourcis iOS](https://support.apple.com/fr-fr/guide/shortcuts/welcome/ios)
 basé sur ce générateur sont disponibles via les liens iCloud suivants<sup>1</sup>:
 
+> :warning: Pour pouvoir importer ces raccourcis vous devez activer au préalable
+l'option `Réglages > Raccourcis > Autoriser les raccourcis non fiables`
+
 <table>
     <tr>
         <td>
