@@ -209,9 +209,10 @@ async function generateAndDownload(payload) {
     profile.time = now.format("HH:mm")
     const blob = await generateCertificatePDF(profile);
     const url = URL.createObjectURL(blob);
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = `attestation-${profile.date}_${profile.time}.pdf`;
-    document.body.appendChild(link);
-    link.click();
+    window.open(url);
+    //const link = document.createElement('a');
+    //link.href = url;
+    //link.download = `attestation-${profile.date}_${profile.time}.pdf`;
+    //document.body.appendChild(link);
+    //link.click();
 }
