@@ -214,3 +214,14 @@ async function generate(payload) {
         filename: `attestation-${profile.date}_${profile.time}.pdf`
     };
 }
+
+/**
+ * Install service worker if supported.
+ */
+function installServiceWorker() {
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+            navigator.serviceWorker.register('js/sw.js');
+        });
+    }
+}

@@ -29,6 +29,7 @@
                 const ua = navigator.userAgent.toLowerCase();
                 const android = ua.indexOf("android") > -1;
                 if (android) {
+                    // NOTE: hidden clicked link do not work well with Android WebView.
                     window.open(result.url);
                 }
                 else {
