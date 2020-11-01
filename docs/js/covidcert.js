@@ -209,10 +209,23 @@ async function generateAndDownload(payload) {
     profile.time = now.format("HH:mm")
     const blob = await generateCertificatePDF(profile);
     const url = URL.createObjectURL(blob);
-    // window.open(url);
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = `attestation-${profile.date}_${profile.time}.pdf`;
-    document.body.appendChild(link);
-    link.click();
+    const filename = `attestation-${profile.date}_${profile.time}.pdf`;
+    if (window.navigator.msSaveOrOpenBlob) {
+        window.navigator.msSaveOrOpenBlob(blob, filename);
+    }
+    else if (window.navigator.userAgent.match('CriOS')) {
+        const reader = new FileReader();
+        reader.onloadend = function () { $window.open(reader.result); };
+        reader.readAsDataURL(blob);
+    }
+    else if (window.navigator.userAgent.match(/iPad/i) || window.navigator.userAgent.match(/iPhone/i)) {
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = filename;
+        document.body.appendChild(link);
+        link.click();
+    }
+    else {
+        window.open(url);
+    }
 }
