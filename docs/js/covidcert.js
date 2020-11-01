@@ -209,5 +209,8 @@ async function generate(payload) {
     profile.time = now.format("HH:mm")
     const blob = await generateCertificatePDF(profile);
     const url = URL.createObjectURL(blob);
-    return url;
+    return {
+        url: url,
+        filename: `attestation-${profile.date}_${profile.time}.pdf`
+    };
 }
