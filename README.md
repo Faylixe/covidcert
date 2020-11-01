@@ -18,9 +18,13 @@ liens iCloud mis à disposition.
 > :gear: Pour pouvoir importer ces raccourcis vous devez activer au préalable
 l'option `Réglages > Raccourcis > Autoriser les raccourcis non fiables`
 
-Lors de l'import vos informations personnelles vous seront demandées afin de pouvoir
-générer les attestations automatiquement. Ces données sont stockées sur votre téléphone
-et ne peut être utilisé par des tiers.
+Lors de l'import vos informations personnelles vous seront demandées afin de
+pouvoir générer les attestations automatiquement. Ces données sont stockées sur
+votre téléphone et ne peut être utilisé par des tiers.
+
+> :warning: Lors de l'éxécution de votre raccourci, un différé d'heure de sortie
+vous sera proposé, l'utilisation d'un différé négatif demeure votre
+responsabilité personnelle.
 
 > <sup>1</sup> un raccourci est proposé par type de déplacement ce qui permet une
 génération instantanée au besoin.
@@ -204,9 +208,14 @@ Le messsage JSON attendu doit respecter le format suivant :
     "city":         "Ville liée à l'adresse du titulaire",
     "zipcode":      "Code postal liée à l'adresse du titulaire",
     "reason":       0,
-    "delta":        0
+    "delta":        null,
+    "hours":        null,
+    "minutes":      null
 }
 ```
+
+Si les champs `hours` et `minutes` sont non nul, alors l'heure de sortie générée sera
+celle correspondante.
 
 > :warning: Le champ `delta` est optionel, il correspond au nombre de minute de différé à
 utiliser pour l'heure de sortie générée.

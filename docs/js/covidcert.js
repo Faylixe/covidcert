@@ -205,6 +205,12 @@ async function generate(payload) {
     if (profile.delta) {
         now = now.subtract(profile.delta, 'minutes');
     }
+    if (profile.hours) {
+        now.set({hour: profile.hours});
+    }
+    if (profile.minutes) {
+        now.set({hour: profile.minutes});
+    }
     profile.date = now.format("DD/MM/YYYY");
     profile.time = now.format("HH:mm")
     const blob = await generateCertificatePDF(profile);
