@@ -74,7 +74,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/7d38f1b8b6304a00b01f178ca98c1aea">
+            <a href="https://www.icloud.com/shortcuts/d44f2830d97848ce8a1598430ad4bff3">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/activity.png"><br>
                     <figcaption>Activité</figcaption>
