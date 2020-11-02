@@ -50,7 +50,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/c4cddd0e259c431990247eb60f7d57fb">
+            <a href="https://www.icloud.com/shortcuts/82ca610f15de471b9f2a77bfbca48c80">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/health.png"><br>
                     <figcaption>Santé</figcaption>
