@@ -15,6 +15,11 @@ Vous devez au préalable installer l'application
 device iOS. Vous pouvez ensuite installer les raccourcis disponible via les
 liens iCloud mis à disposition.
 
+<figure class="image">
+    <img src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/usage.gif"><br>
+    <figcaption>Utilisation avec les widgets iOS</figcaption>
+</figure>
+
 > :gear: Pour pouvoir importer ces raccourcis vous devez activer au préalable
 l'option `Réglages > Raccourcis > Autoriser les raccourcis non fiables`
 
