@@ -195,19 +195,19 @@ Un portage sur Android a été realisé par @akabane et est disponible via l'app
 [Automate](https://llamalab.com/automate/). L'utilisation se fait en deux temps, tout d'abord
 il faut executé un flow de configuration pour ajouter ces données personnelles:
 
-- :gear: https://llamalab.com/automate/community/api/v1/flows/37414/data/Covid-19+Config.flo
+- :gear: [Configuration](https://llamalab.com/automate/community/api/v1/flows/37414/data/Covid-19+Config.flo)
 
 Puis vous pouvez installer les flows suivant pour générer vos attestations:
 
-- :briefcase: https://llamalab.com/automate/community/api/v1/flows/37415/data/Covid-19+Attestation+Travail.flo
-- :shopping_cart: https://llamalab.com/automate/community/api/v1/flows/37421/data/Covid-19+Attestation+Courses.flo
-- :hospital: https://llamalab.com/automate/community/api/v1/flows/37416/data/Covid-19+Attestation+Santé.flo
-- :family: https://llamalab.com/automate/community/api/v1/flows/37419/data/Covid-19+Attestation+Famille.flo
-- :wheelchair: https://llamalab.com/automate/community/api/v1/flows/37418/data/Covid-19+Attestation+Handicap.flo
-- :man_running: https://llamalab.com/automate/community/api/v1/flows/37423/data/Covid-19+Attestation+Activité.flo
-- :balance_scale: https://llamalab.com/automate/community/api/v1/flows/37422/data/Covid-19+Attestation+Convocation.flo
-- :information_source: https://llamalab.com/automate/community/api/v1/flows/37417/data/Covid-19+Attestation+Mission.flo
-- :baby: https://llamalab.com/automate/community/api/v1/flows/37420/data/Covid-19+Attestation+Enfants.flo
+- :briefcase: (Travail)[https://llamalab.com/automate/community/api/v1/flows/37415/data/Covid-19+Attestation+Travail.flo]
+- :shopping_cart: (Courses)[https://llamalab.com/automate/community/api/v1/flows/37421/data/Covid-19+Attestation+Courses.flo]
+- :hospital: (Santé)[https://llamalab.com/automate/community/api/v1/flows/37416/data/Covid-19+Attestation+Santé.flo]
+- :family: (Famille)[https://llamalab.com/automate/community/api/v1/flows/37419/data/Covid-19+Attestation+Famille.flo]
+- :wheelchair: (Handicap)[https://llamalab.com/automate/community/api/v1/flows/37418/data/Covid-19+Attestation+Handicap.flo]
+- :man_running: (Activité)[https://llamalab.com/automate/community/api/v1/flows/37423/data/Covid-19+Attestation+Activité.flo]
+- :balance_scale: (Convocation)[https://llamalab.com/automate/community/api/v1/flows/37422/data/Covid-19+Attestation+Convocation.flo]
+- :information_source: (Mission)[https://llamalab.com/automate/community/api/v1/flows/37417/data/Covid-19+Attestation+Mission.flo]
+- :baby: (Enfant)[https://llamalab.com/automate/community/api/v1/flows/37420/data/Covid-19+Attestation+Enfants.flo]
 
 
 ## Developpement
