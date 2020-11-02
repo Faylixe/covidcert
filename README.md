@@ -82,7 +82,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/43d5f7ba21ca4123990456b21be6edea">
+            <a href="https://www.icloud.com/shortcuts/2cd6bbe509774799aeb340cb060cc580">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/justice.png"><br>
                     <figcaption>Convocation</figcaption>
