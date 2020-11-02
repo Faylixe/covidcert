@@ -191,7 +191,7 @@ En cas d'indisponibilité du service iCloud vous pouvez également utiliser dire
 
 ## Support Android via Automate
 
-Un portage sur Android a été realisé par @akabane et est disponible via l'application
+Un portage sur Android a été realisé par @Akabane87 et est disponible via l'application
 [Automate](https://llamalab.com/automate/). L'utilisation se fait en deux temps, tout d'abord
 il faut executé un flow de configuration pour ajouter ces données personnelles:
 
