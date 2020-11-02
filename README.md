@@ -34,7 +34,7 @@ génération instantanée au besoin.
 <table>
     <tr>
         <td>
-            <a href="https://www.icloud.com/shortcuts/f4975d211a614cb6abfa63f85bee70cc">
+            <a href="https://www.icloud.com/shortcuts/60cb2eac73b04d4088fbb0abf5ddd772">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/work.png"><br>
                     <figcaption>Travail</figcaption>
