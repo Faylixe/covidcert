@@ -66,7 +66,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/f9fea98a27a94315a1e22e7f8f849afb">
+            <a href="https://www.icloud.com/shortcuts/e575ed347c714f0d92b44c004e6d8938">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/disability.png"><br>
                     <figcaption>Handicap</figcaption>
