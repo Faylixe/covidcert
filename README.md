@@ -90,7 +90,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/1a80f03f393c48d2b7df0ddb92e3d367">
+            <a href="https://www.icloud.com/shortcuts/a2422afe926c40dda274e9dc838c6298">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/mission.png"><br>
                     <figcaption>Mission</figcaption>
