@@ -42,7 +42,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/572c8e8ff4b94c279d3c226edf10b6f3">
+            <a href="https://www.icloud.com/shortcuts/852d7fd1bb8e4fd3b644cd9a971160f2">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/shopping.png"><br>
                     <figcaption>Courses</figcaption>
