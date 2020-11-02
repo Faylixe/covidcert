@@ -110,84 +110,8 @@ génération instantanée au besoin.
 
 ### Fichier .shortcut
 
-En cas d'indisponibilité du service iCloud vous pouvez également utiliser directement les fichiers `shortcut`:
-
-<table>
-    <tr>
-        <td>
-            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/work.shortcut">
-                <figure class="image">
-                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/work.png"><br>
-                    <figcaption>Travail</figcaption>
-                </figure>
-            </a>
-        </td>
-        <td>
-            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/shopping.shortcut">
-                <figure class="image">
-                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/shopping.png"><br>
-                    <figcaption>Courses</figcaption>
-                </figure>
-            </a>
-        </td>
-        <td>
-            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/health.shortcut">
-                <figure class="image">
-                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/health.png"><br>
-                    <figcaption>Santé</figcaption>
-                </figure>
-            </a>
-        </td>
-        <td>
-            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/family.shortcut">
-                <figure class="image">
-                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/family.png"><br>
-                    <figcaption>Famille</figcaption>
-                </figure>
-            </a>
-        </td>
-        <td>
-            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/disability.shortcut">
-                <figure class="image">
-                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/disability.png"><br>
-                    <figcaption>Handicap</figcaption>
-                </figure>
-            </a>
-        </td>
-        <td>
-            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/activity.shortcut">
-                <figure class="image">
-                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/activity.png"><br>
-                    <figcaption>Activité</figcaption>
-                </figure>
-            </a>
-        </td>
-        <td>
-            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/justice.shortcut">
-                <figure class="image">
-                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/justice.png"><br>
-                    <figcaption>Convocation</figcaption>
-                </figure>
-            </a>
-        </td>
-        <td>
-            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/mission.shortcut">
-                <figure class="image">
-                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/mission.png"><br>
-                    <figcaption>Mission</figcaption>
-                </figure>
-            </a>
-        </td>
-        <td>
-            <a href="https://raw.githubusercontent.com/Faylixe/covidcert/main/shortcuts/children.shortcut">
-                <figure class="image">
-                    <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/children.png"><br>
-                    <figcaption>Enfants</figcaption>
-                </figure>
-            </a>
-        </td>
-    </tr>
-</table>
+En cas d'indisponibilité du service iCloud vous pouvez également utiliser
+directement les fichiers `.shortcut` disponible [ici](shortcuts/).
 
 ## Support Android via Automate
 
