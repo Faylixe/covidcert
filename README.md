@@ -98,7 +98,7 @@ génération instantanée au besoin.
             </a>
         </td>
         <td>
-            <a href="https://www.icloud.com/shortcuts/e954dbf0a9b7421fbe50c39a38b31348">
+            <a href="https://www.icloud.com/shortcuts/760af80828d348bcb86d89bae04f60b7">
                 <figure class="image">
                     <img width="64" height="44" src="https://raw.githubusercontent.com/Faylixe/covidcert/main/images/ios/children.png"><br>
                     <figcaption>Enfants</figcaption>
